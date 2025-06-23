@@ -408,11 +408,6 @@ label {}
     color: #f4f4fd;
 }
 
-.footer-container {
-    padding: 96px 16px;
-}
-
-
 .footer-desc {
     display: flex;
     flex-direction: column;
